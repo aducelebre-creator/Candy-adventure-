@@ -1,0 +1,19 @@
+{
+  "name": "Candy Adventure",
+  "short_name": "Candy Adventure",
+  "description": "Un jeu de puzzle coloré : aligne les bonbons et progresse de niveau en niveau.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffb16f",
+  "theme_color": "#ff5577",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

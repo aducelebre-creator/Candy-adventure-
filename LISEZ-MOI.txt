@@ -1,0 +1,14 @@
+CANDY ADVENTURE — version application installable (PWA)
+
+Contenu :
+- index.html : jeu mobile
+- manifest.webmanifest : identité de l'application
+- sw.js : cache hors-ligne
+- icon.svg : icône
+
+Pour installer comme application Android :
+1. Héberger le dossier sur un site HTTPS (par exemple GitHub Pages).
+2. Ouvrir l'adresse HTTPS dans Chrome Android.
+3. Menu ⋮ > Installer l'application / Ajouter à l'écran d'accueil.
+
+Cette version est une PWA, pas encore un APK natif. Les publicités et achats intégrés ne sont pas activés.
